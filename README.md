@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-Task: Create a Flutter app which makes a network call to fetch data from internet from the provided endpoint and reflect it on a UI after parsing it into a Dart class. 
-
-API: https://jsonplaceholder.typicode.com/comments/1
+Task: Create a Flutter app which makes a network call to fetch data from internet from the provided endpoint https://jsonplaceholder.typicode.com/comments/1 and reflect it on a UI after parsing it into a Dart class. 
 
 ## Getting Started
 
